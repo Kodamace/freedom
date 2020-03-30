@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freedom/static/css/main.6475a441.chunk.css",
+    "main.css": "/freedom/static/css/main.84852d03.chunk.css",
     "main.js": "/freedom/static/js/main.f9f635de.chunk.js",
     "main.js.map": "/freedom/static/js/main.f9f635de.chunk.js.map",
     "runtime-main.js": "/freedom/static/js/runtime-main.0be046ec.js",
@@ -8,9 +8,9 @@
     "static/js/2.56dc103e.chunk.js": "/freedom/static/js/2.56dc103e.chunk.js",
     "static/js/2.56dc103e.chunk.js.map": "/freedom/static/js/2.56dc103e.chunk.js.map",
     "index.html": "/freedom/index.html",
-    "precache-manifest.50507fb61be56efe756622343348b2f8.js": "/freedom/precache-manifest.50507fb61be56efe756622343348b2f8.js",
+    "precache-manifest.45c0678d648b6eca0abe224f7d3d5a3d.js": "/freedom/precache-manifest.45c0678d648b6eca0abe224f7d3d5a3d.js",
     "service-worker.js": "/freedom/service-worker.js",
-    "static/css/main.6475a441.chunk.css.map": "/freedom/static/css/main.6475a441.chunk.css.map",
+    "static/css/main.84852d03.chunk.css.map": "/freedom/static/css/main.84852d03.chunk.css.map",
     "static/js/2.56dc103e.chunk.js.LICENSE.txt": "/freedom/static/js/2.56dc103e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/freedom/static/media/backGroundImg.e5e1d0aa.jpg",
     "static/media/logo193.png": "/freedom/static/media/logo193.ba2a6ae7.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.0be046ec.js",
     "static/js/2.56dc103e.chunk.js",
-    "static/css/main.6475a441.chunk.css",
+    "static/css/main.84852d03.chunk.css",
     "static/js/main.f9f635de.chunk.js"
   ]
 }
